@@ -1,2 +1,4 @@
 # hello-world
-my first repository 
+Hi! This is my first repository.
+
+Working form home and learning R is a bit intimidating!! 
